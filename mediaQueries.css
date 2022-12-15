@@ -15,7 +15,7 @@
         margin-top: 1.3rem;
     }
     .container{
-        width: 95%;
+        width: 90%;
         padding: 0;
         padding-block: 1rem;
     }
@@ -40,7 +40,8 @@
         font-weight: 700;
         max-width: 1044px;
         text-align: center;
-        line-height: 65px;
+        line-height: 2.5rem !important;
+        margin-bottom: 1.4rem;
     }
     .header-text >h3{
         line-height: 43.58px;
@@ -64,7 +65,7 @@
     .text-desc{
         font-size: 1rem;
         line-height: 24px !important;
-        margin-bottom: 1rem;
+        margin-bottom: 2rem;
         
     }
     /* testimonials */
