@@ -172,6 +172,7 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 
 | **Commits** | **Contributor** |  
 | --- | --- |  
+[Ebuka Obiajulu](https://github.com/ebukaobiajulu)
 | 61 | [jonschlinkert](https://github.com/jonschlinkert) |  
 | 2  | [joakimbeng](https://github.com/joakimbeng) |  
 | 1  | [bleathem](https://github.com/bleathem) |  
